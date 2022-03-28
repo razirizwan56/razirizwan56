@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @razirizwan56
 - 👀 I’m interested in java
-- 🌱 I’m currently learning OOP inC++
+- 🌱 I’m currently learning OOP in C++
 - 💞️ I’m looking to collaborate on..
-- 📫 Whatsapp me on 0301-2856116
+- 📫 Whatsapp: 0301-2856116
+          Snapchat: razi_rizwan56۔      
+          Instagram: razi_rizwan_56۔     
+          Facebook: رضی رضوان خانزادہ
     
 
 <!---
